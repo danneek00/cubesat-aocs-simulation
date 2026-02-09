@@ -1,0 +1,17 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.autosave
+slprj/
+*.slxc
+
+# Data / results
+*.mat
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Project plan
+PROJECT_PLAN.md
+
